@@ -1,0 +1,6 @@
+a. Assignment 2
+b. Bharath Parthasarathy (40036730)
+c. in VB the filename argument has to be entered in the 'project properties'>Debugging>Command Arguments.
+d. none.
+e. sometimes buffer emoty error is also shown as invalid command.
+f. none.

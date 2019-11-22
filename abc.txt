@@ -1,0 +1,15 @@
+int main(int argc, cjar * argv[])
+{
+if (argc > 2)
+{
+	cout << "usage 1: " << argv[0] << "\n ";
+	cout << "usage 2: " << argv[0] << " <filename>\n ";
+	cout << "Try again later" << endl;
+	return 1;
+}
+string filename;
+filename = argv[1];
+Led editor(filename);
+editor.run();
+return 0;
+}
